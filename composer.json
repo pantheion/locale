@@ -1,0 +1,18 @@
+{
+    "name": "pantheion/locale",
+    "description": "Localization",
+    "license": "",
+    "authors": [
+        {
+            "name": "Pedro Miguel",
+            "email": "pedro.aos19@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Pantheion\\Locale\\": ""
+        }
+    },
+    "require": {}
+}
